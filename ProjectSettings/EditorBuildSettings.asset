@@ -1,0 +1,207 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EULAPpEtc.unity
+    guid: 00689fdaa0369294eab96ed9c0950d79
+  - enabled: 1
+    path: Assets/Scenes/MenuSend.unity
+    guid: 0a0dd2e9e9af5c24683bc5cdb98feb36
+  - enabled: 1
+    path: Assets/Scenes/VRWalkingGame.unity
+    guid: bec40d69041de2144bdfe2c52106df0d
+  - enabled: 1
+    path: Assets/Scenes/TOSUpdate.unity
+    guid: 37412d215f737904590a7e4190fd58ce
+  - enabled: 1
+    path: Assets/Scenes/NewEndless.unity
+    guid: 1c72074fbbd392346861300075fb7082
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/PurpleWorld/PurpleWorld1.unity
+    guid: a7c92ee2323813249bc56dc7b1488260
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BlueWorld/BlueWorld1.unity
+    guid: 8f30204cb124fd248af592b4229855e5
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld1.unity
+    guid: 83257212f64ec4047b78c44c20e0e5a8
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld2.unity
+    guid: c8a3c444b99954d49a13a574f55e8696
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld4.unity
+    guid: b5f05358c46056948bd9521faf543e2d
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld10.unity
+    guid: 5237212db88799343bb380aa6b51e2c5
+  - enabled: 1
+    path: Assets/Scenes/FinaleScene.unity
+    guid: e29f787210242bf469313a853c294067
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld5.unity
+    guid: 69961fbe3bd97224391dcd30daa0389e
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld7.unity
+    guid: 3b0127ce13770624183bffb25d81ad96
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld8.unity
+    guid: a811e2564cb187b43a31ee0ab18302e3
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld6.unity
+    guid: 9fc44195b5592a441b95b9216a028c9c
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld9.unity
+    guid: 0396cdbae658ab84081a21b66ce972ea
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BrownWorld/BrownWorld5.unity
+    guid: 35b2759427d29014991f83d5b1630970
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 9e48567fa9f25174991c632bfd57eb3b
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/ImportedScenes/BlackWorld3.unity
+    guid: 4ad2858a1dc4f834ca59061d16a81dec
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/GreenWorld/GreenWorld1.unity
+    guid: 2a70f8b03b636af488e117a055cd1116
+  - enabled: 1
+    path: Assets/Scenes/Unused/PortalTransition.unity
+    guid: 6f1ed6c220f25bd49a90669f3efea673
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/YellowWorld/YellowWorld0.unity
+    guid: 59a8c436ad3842b4ca315da38583109e
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 3c7c7e39e5145444592718908d789e37
+  - enabled: 1
+    path: Assets/Scenes/SettingsScenes/MainSettings.unity
+    guid: ba568a90951e38f4f97166f849a1ee31
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/OrangeWorld/OrangeWorld1.unity
+    guid: e725f533fb30e1d47a06aabb451915ee
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/RedWorld/RedWorld1.unity
+    guid: f30a58b3143814149badf9599316de2f
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/OrangeWorld/OrangeWorld4.unity
+    guid: bb847a4fa5b28f046aca539b52d347e1
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/OrangeWorld/OrangeWorld2.unity
+    guid: b3fd945af5c37124b8bff5952e91acf0
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/OrangeWorld/OrangeWorld3.unity
+    guid: 3e5ecfbd718ae8a4ab82ad0a50a03b1b
+  - enabled: 1
+    path: Assets/Scenes/PasteData.unity
+    guid: 3ab8023cbde59cb48ab49f45b9eaa522
+  - enabled: 1
+    path: Assets/Scenes/EasterEgg1.unity
+    guid: ef461647c3faa3d49af79a9983fc2787
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/PurpleWorld/PurpleWorld2.unity
+    guid: 7bfec275332d3f1429bbf68d988c8e5e
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/PurpleWorld/PurpleWorld3.unity
+    guid: 7bf7a8ac9b802134ba9b44401cf8ca54
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/PurpleWorld/PurpleWorld4.unity
+    guid: fb6db72728b8e78458b5d2070adeab2a
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/PurpleWorld/PurpleWorld5.unity
+    guid: 2a93b3f2a67afa44eae412e725dbcabd
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/OrangeWorld/OrangeWorld5.unity
+    guid: 497709d26c0e4854abeac1c877a03abe
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/RedWorld/RedWorld4.unity
+    guid: 1a0821d3198382f4488b586049bca7bd
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/RedWorld/RedWorld2.unity
+    guid: d819e8e5e69b8be48b7907c53c9f9541
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/YellowWorld/YellowWorld1.unity
+    guid: 2dbe779ffcc895e44ae48be00d87e8e9
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/RedWorld/RedWorld3.unity
+    guid: a77ac8b3cb0f65c489559833c1314442
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/RedWorld/RedWorld5.unity
+    guid: 18f209ac4a0318b42943d1517f493779
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BlueWorld/BlueWorld4.unity
+    guid: 979ff5ec6e7ea7d48ab9b46b9bdf016c
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BlueWorld/BlueWorld2.unity
+    guid: 47cad3a62d4169842aba8886c72779a9
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BlueWorld/BlueWorld3.unity
+    guid: b540f783a6fdacd41ad0e3a80695f7a4
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/YellowWorld/YellowWorld3.unity
+    guid: 2f0ebb90e3178d24d8145593cda1e04b
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/YellowWorld/YellowWorld2.unity
+    guid: e5585069928ec334cb5123ddcfb776e8
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/YellowWorld/YellowWorld4.unity
+    guid: 589b622ab8a52e94994b34e90190c944
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BlueWorld/BlueWorld0.unity
+    guid: 40680e1357614474bb7e15e1c746cc7f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Endless.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/Tutorial.unity
+    guid: 8c2e93528c613db478c6c9f5dfa6019d
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 44ecc346f46e42b49909e065c8a50c4f
+  - enabled: 1
+    path: Assets/Scenes/Unused/MainMenuScene.unity
+    guid: ebe950d3d006a65449d40b3b02d30ea8
+  - enabled: 1
+    path: Assets/Scenes/CustomDataScene.unity
+    guid: 1a049fbde1ca14c42aaa9819c14dd58a
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/GreenWorld/GreenWorld2.unity
+    guid: 9f3e919b6837e034aab253b2041e0a44
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/GreenWorld/GreenWorld3.unity
+    guid: b9dec88de7e82ee4ebe46651097830ec
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/GreenWorld/GreenWorld4.unity
+    guid: 27d155fed86b09e49a4b18ab7835fc4b
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/GreenWorld/GreenWorld5.unity
+    guid: 5828760c8f13ffb40afe8d99feaef4b5
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BrownWorld/BrownWorld1.unity
+    guid: 0b61aec919b8ef94785bd350c21edc75
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BrownWorld/BrownWorld2.unity
+    guid: 85d7362b1ba82224996db4b467207f68
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BrownWorld/BrownWorld3.unity
+    guid: 1dbf473bc9c1c224dbddf9602c32d492
+  - enabled: 1
+    path: Assets/Scenes/AllWOrlds/BrownWorld/BrownWorld4.unity
+    guid: 80ee8059c6631f24e98e8722778ab510
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9e44c3efe7300d346a74e3ac5e113be2, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 78ee426394e14314a905efb3bc8e0b38, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 218b5fd126afc5a43b2f415dfe8341f0, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 8c3de6009472f544cacdb698dad73c7a, type: 2}
